@@ -5,17 +5,27 @@
 
 <li>Usage</li>
 
-<li><h4>The landing page looks like this</h4></li>
+<li>
+<h4>The landing page looks like this</h4>
+</li>
 <img src="Images/pic-1.png">
 
-<li><h4>Enter your ingredients in the search bar</h4></li>
+<li>
+<h4>Enter your ingredients in the search bar</h4>
+</li>
 <img src="Images/pic-2.png">
 
-<li><h4>This is how all the food item will be listed</h4></li>
+<li>
+<h4>This is how all the food item will be listed</h4>
+</li>
 <img src="Images/pic-3.png" alt="">
 
-<li><h4>Click on Get Recipe button</h4></li>
+<li>
+<h4>Click on Get Recipe button</h4>
+</li>
 <img src="Images/pic-4.png" alt="">
 
-<li><h4>The recipes</h4></li>
+<li>
+<h4>The recipes</h4>
+</li>
 <img src="Images/pic-5.png" alt="">
